@@ -53,5 +53,60 @@
         "used",
         "use"
       ]
+    },
+    {
+      "numb": 6,
+      "question": "______ there anybody in the room?",
+      "answer": "is",
+      "options": [
+        "Are",
+        "is",
+        "am",
+        "if"
+      ]
+    },
+    {
+      "numb": 7,
+      "question": "What___ you doing?",
+      "answer": "are",
+      "options": [
+        "is",
+        "are",
+        "am",
+        "if"
+      ]
+    },
+    {
+      "numb": 8,
+      "question": "Which book is ______?",
+      "answer": "yours",
+      "options": [
+        "your",
+        "your's",
+        "yours",
+        "your is"
+      ]
+    },
+    {
+      "numb": 9,
+      "question": "She is____ home.",
+      "answer": "at",
+      "options": [
+        "at",
+        "in",
+        "on",
+        "from"
+      ]
+    },
+    {
+      "numb": 10,
+      "question": "Why _____ she come late?",
+      "answer": "dose",
+      "options": [
+        "do",
+        "dose",
+        "is",
+        "are"
+      ]
     }
   ]
