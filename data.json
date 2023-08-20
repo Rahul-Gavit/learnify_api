@@ -1,57 +1,57 @@
 [
     {
       "numb": 1,
-      "question": "What does HTML stand for?",
-      "answer": "Hyper Text Markup Language",
+      "question": "I came _____ America",
+      "answer": "from",
       "options": [
-        "Hyper Text Preprocessor",
-        "Hyper Text Markup Language",
-        "Hyper Text Multiple Language",
-        "Hyper Tool Multi Language"
+        "from",
+        "at",
+        "in",
+        "on"
       ]
     },
     {
       "numb": 2,
-      "question": "What does CSS stand for?",
-      "answer": "Cascading Style Sheet",
+      "question": "I ____ cold.",
+      "answer": "am",
       "options": [
-        "Common Style Sheet",
-        "Colorful Style Sheet",
-        "Computer Style Sheet",
-        "Cascading Style Sheet"
+        "am",
+        "have",
+        "had",
+        "is"
       ]
     },
     {
       "numb": 3,
-      "question": "What does PHP stand for?",
-      "answer": "Hypertext Preprocessor",
+      "question": "________ car is very old fashioned.",
+      "answer": "Fatima's",
       "options": [
-        "Hypertext Preprocessor",
-        "Hypertext Programming",
-        "Hypertext Preprogramming",
-        "Hometext Preprocessor"
+        "Fatima's",
+        "Fatimas",
+        "Fatima is",
+        "Fatimas'"
       ]
     },
     {
       "numb": 4,
-      "question": "What does SQL stand for?",
-      "answer": "Structured Query Language",
+      "question": "I speak English but he_______.",
+      "answer": "doesn't speaks",
       "options": [
-        "Stylish Question Language",
-        "Stylesheet Query Language",
-        "Statement Question Language",
-        "Structured Query Language"
+        "doesn't speaks",
+        "doesn't speak",
+        "speaks",
+        "don't speak"
       ]
     },
     {
       "numb": 5,
-      "question": "What does XML stand for?",
-      "answer": "eXtensible Markup Language",
+      "question": "Nowadays everyone ______ internet.",
+      "answer": "uses",
       "options": [
-        "eXtensible Markup Language",
-        "eXecutable Multiple Language",
-        "eXTra Multi-Program Language",
-        "eXamine Multiple Language"
+        "had used",
+        "uses",
+        "used",
+        "use"
       ]
     }
   ]
