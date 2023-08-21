@@ -7,14 +7,13 @@ app.use(cors());
 const port = process.env.PORT || 3000;
 
 const apiData = require("./data.json");
-const flagApi = require("./flag.json");
 
 app.get("/", (req, res) => {
     res.send("Hello i am live");
 });
 
 app.get("/service", (req, res) => {
-    res.send(flagApi);
+    res.send(apiData);
 })
 
 app.listen(port, () => {
