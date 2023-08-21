@@ -14,7 +14,6 @@ app.get("/", (req, res) => {
 });
 
 app.get("/service", (req, res) => {
-    res.send(apiData);
     res.send(flagApi);
 })
 
