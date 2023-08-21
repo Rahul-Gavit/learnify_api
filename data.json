@@ -233,5 +233,120 @@
           ]
         }
       ]      
-  } 
+  },
+
+  {
+    "2": [
+      {
+        "numb": 1,
+        "question": "Identify the figure of speech in the sentence: 'The world is a stage.'",
+        "answer": "C) Metaphor",
+        "options": [
+          "A) Simile",
+          "B) Personification",
+          "C) Metaphor",
+          "D) Hyperbole"
+        ]
+      },
+      {
+        "numb": 2,
+        "question": "What is the correct form of the conditional sentence: 'If he had studied, he __________ passed the exam.'",
+        "answer": "D) would have",
+        "options": [
+          "A) will",
+          "B) would",
+          "C) would be",
+          "D) would have"
+        ]
+      },
+      {
+        "numb": 3,
+        "question": "Choose the correct word to complete the analogy: 'Guitar is to strings as piano is to ________.'",
+        "answer": "A) keys",
+        "options": [
+          "A) keys",
+          "B) hammers",
+          "C) pedals",
+          "D) notes"
+        ]
+      },
+      {
+        "numb": 4,
+        "question": "Which of the following sentences contains a gerund phrase?",
+        "answer": "B) Swimming in the ocean is a favorite pastime.",
+        "options": [
+          "A) She swam every day.",
+          "B) Swimming in the ocean is a favorite pastime.",
+          "C) To swim requires practice.",
+          "D) Swim quickly to win the race."
+        ]
+      },
+      {
+        "numb": 5,
+        "question": "What is the synonym for 'erudite'?",
+        "answer": "C) Learned",
+        "options": [
+          "A) Rude",
+          "B) Ignorant",
+          "C) Learned",
+          "D) Naive"
+        ]
+      },
+      {
+        "numb": 6,
+        "question": "Which sentence is grammatically correct?",
+        "answer": "D) Neither the teacher nor the students were interested.",
+        "options": [
+          "A) Neither the teacher nor the students was interested.",
+          "B) Neither the teacher nor the students is interested.",
+          "C) Neither the teacher nor the students are interested.",
+          "D) Neither the teacher nor the students were interested."
+        ]
+      },
+      {
+        "numb": 7,
+        "question": "What is the meaning of the idiom 'hit the nail on the head'?",
+        "answer": "B) To describe exactly what is causing a situation or problem.",
+        "options": [
+          "A) To physically hit a nail.",
+          "B) To describe exactly what is causing a situation or problem.",
+          "C) To miss an opportunity.",
+          "D) To make a loud noise."
+        ]
+      },
+      {
+        "numb": 8,
+        "question": "Choose the correct sentence with an appositive phrase:",
+        "answer": "A) The painting, a masterpiece of the Renaissance, sold for millions.",
+        "options": [
+          "A) The painting, a masterpiece of the Renaissance, sold for millions.",
+          "B) The painting sold for millions was a masterpiece of the Renaissance.",
+          "C) The painting sold for millions, a masterpiece of the Renaissance.",
+          "D) The painting of the Renaissance, a masterpiece, sold for millions."
+        ]
+      },
+      {
+        "numb": 9,
+        "question": "What is the correct pronunciation of the word 'schedule'?",
+        "answer": "C) 'shed-yool'",
+        "options": [
+          "A) 'sked-ool'",
+          "B) 'sheh-jool'",
+          "C) 'shed-yool'",
+          "D) 'sked-yool'"
+        ]
+      },
+      {
+        "numb": 10,
+        "question": "Identify the type of irony in the statement: 'The fire station burned down.'",
+        "answer": "A) Situational irony",
+        "options": [
+          "A) Situational irony",
+          "B) Verbal irony",
+          "C) Dramatic irony",
+          "D) Cosmic irony"
+        ]
+      }
+    ]    
+  }
 ]
