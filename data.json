@@ -1,232 +1,238 @@
 [
   {
-    "big_eng": [
+    "eng_mcq": [
 
       {
-        "numb": 1,
-        "question": "I came _____ America",
-        "answer": "from",
-        "options": [
-          "from",
-          "at",
-          "in",
-          "on"
-        ]
-      },
-      {
-        "numb": 2,
-        "question": "I ____ cold.",
-        "answer": "am",
-        "options": [
-          "am",
-          "have",
-          "had",
-          "is"
-        ]
-      },
-      {
-        "numb": 3,
-        "question": "________ car is very old fashioned.",
-        "answer": "Fatima's",
-        "options": [
-          "Fatima's",
-          "Fatimas",
-          "Fatima is",
-          "Fatimas'"
-        ]
-      },
-      {
-        "numb": 4,
-        "question": "I speak English but he_______.",
-        "answer": "doesn't speaks",
-        "options": [
-          "doesn't speaks",
-          "doesn't speak",
-          "speaks",
-          "don't speak"
-        ]
-      },
-      {
-        "numb": 5,
-        "question": "Nowadays everyone ______ internet.",
-        "answer": "uses",
-        "options": [
-          "had used",
-          "uses",
-          "used",
-          "use"
-        ]
-      },
-      {
-        "numb": 6,
-        "question": "______ there anybody in the room?",
-        "answer": "is",
-        "options": [
-          "Are",
-          "is",
-          "am",
-          "if"
-        ]
-      },
-      {
-        "numb": 7,
-        "question": "What___ you doing?",
-        "answer": "are",
-        "options": [
-          "is",
-          "are",
-          "am",
-          "if"
-        ]
-      },
-      {
-        "numb": 8,
-        "question": "Which book is ______?",
-        "answer": "yours",
-        "options": [
-          "your",
-          "your's",
-          "yours",
-          "your is"
-        ]
-      },
-      {
-        "numb": 9,
-        "question": "She is____ home.",
-        "answer": "at",
-        "options": [
-          "at",
-          "in",
-          "on",
-          "from"
-        ]
-      },
-      {
-        "numb": 10,
-        "question": "Why _____ she come late?",
-        "answer": "dose",
-        "options": [
-          "do",
-          "dose",
-          "is",
-          "are"
-        ]
+        "big_eng": [
+
+          {
+            "numb": 1,
+            "question": "I came _____ America",
+            "answer": "from",
+            "options": [
+              "from",
+              "at",
+              "in",
+              "on"
+            ]
+          },
+          {
+            "numb": 2,
+            "question": "I ____ cold.",
+            "answer": "am",
+            "options": [
+              "am",
+              "have",
+              "had",
+              "is"
+            ]
+          },
+          {
+            "numb": 3,
+            "question": "________ car is very old fashioned.",
+            "answer": "Fatima's",
+            "options": [
+              "Fatima's",
+              "Fatimas",
+              "Fatima is",
+              "Fatimas'"
+            ]
+          },
+          {
+            "numb": 4,
+            "question": "I speak English but he_______.",
+            "answer": "doesn't speaks",
+            "options": [
+              "doesn't speaks",
+              "doesn't speak",
+              "speaks",
+              "don't speak"
+            ]
+          },
+          {
+            "numb": 5,
+            "question": "Nowadays everyone ______ internet.",
+            "answer": "uses",
+            "options": [
+              "had used",
+              "uses",
+              "used",
+              "use"
+            ]
+          },
+          {
+            "numb": 6,
+            "question": "______ there anybody in the room?",
+            "answer": "is",
+            "options": [
+              "Are",
+              "is",
+              "am",
+              "if"
+            ]
+          },
+          {
+            "numb": 7,
+            "question": "What___ you doing?",
+            "answer": "are",
+            "options": [
+              "is",
+              "are",
+              "am",
+              "if"
+            ]
+          },
+          {
+            "numb": 8,
+            "question": "Which book is ______?",
+            "answer": "yours",
+            "options": [
+              "your",
+              "your's",
+              "yours",
+              "your is"
+            ]
+          },
+          {
+            "numb": 9,
+            "question": "She is____ home.",
+            "answer": "at",
+            "options": [
+              "at",
+              "in",
+              "on",
+              "from"
+            ]
+          },
+          {
+            "numb": 10,
+            "question": "Why _____ she come late?",
+            "answer": "dose",
+            "options": [
+              "do",
+              "dose",
+              "is",
+              "are"
+            ]
+          }
+        ],
+    
+    
+        "int_eng": [
+    
+            {
+              "numb": 1,
+              "question": "Which of the following is a synonym for 'eager'?",
+              "answer": "B) Excited",
+              "options": [
+                "A) Angry",
+                "B) Excited",
+                "C) Lazy",
+                "D) Sad"
+              ]
+            },
+            {
+              "numb": 2,
+              "question": "What is the correct way to address someone in a formal email?",
+              "answer": "B) Dear Mr. Smith,",
+              "options": [
+                "A) Hey John,",
+                "B) Dear Mr. Smith,",
+                "C) Hi there,",
+                "D) Yo,"
+              ]
+            },
+            {
+              "numb": 3,
+              "question": "Choose the correct sentence that uses the past continuous tense:",
+              "answer": "C) They were playing soccer in the park yesterday.",
+              "options": [
+                "A) She is singing a song yesterday.",
+                "B) He was read a book now.",
+                "C) They were playing soccer in the park yesterday.",
+                "D) I will be going to the party tomorrow."
+              ]
+            },
+            {
+              "numb": 4,
+              "question": "Which word is a homophone for 'peace'?",
+              "answer": "A) Piece",
+              "options": [
+                "A) Piece",
+                "B) Peas",
+                "C) Pies",
+                "D) Paws"
+              ]
+            },
+            {
+              "numb": 5,
+              "question": "Identify the correct sentence with parallel structure:",
+              "answer": "C) They enjoy swimming and reading books.",
+              "options": [
+                "A) She likes to swim and reading books.",
+                "B) He enjoys swimming and to read books.",
+                "C) They enjoy swimming and reading books.",
+                "D) Swimming is something they enjoy and also reading books."
+              ]
+            },
+            {
+              "numb": 6,
+              "question": "What is the meaning of the idiom 'break a leg'?",
+              "answer": "B) To wish someone good luck",
+              "options": [
+                "A) To actually break a leg",
+                "B) To wish someone good luck",
+                "C) To dance energetically",
+                "D) To run a race"
+              ]
+            },
+            {
+              "numb": 7,
+              "question": "Which sentence contains a dangling modifier?",
+              "answer": "C) Running through the park, my wallet fell out of my pocket.",
+              "options": [
+                "A) After finishing my homework, the computer crashed.",
+                "B) While eating dinner, the phone rang.",
+                "C) Running through the park, my wallet fell out of my pocket.",
+                "D) I saw a cat crossing the street while walking home."
+              ]
+            },
+            {
+              "numb": 8,
+              "question": "Which sentence is in the passive voice?",
+              "answer": "B) The mouse was chased by the cat.",
+              "options": [
+                "A) The cat chased the mouse.",
+                "B) The mouse was chased by the cat.",
+                "C) The chef cooked a delicious meal.",
+                "D) She is singing a song."
+              ]
+            },
+            {
+              "numb": 9,
+              "question": "What does the word 'ephemeral' mean?",
+              "answer": "B) Temporary",
+              "options": [
+                "A) Long-lasting",
+                "B) Temporary",
+                "C) Unpleasant",
+                "D) Confusing"
+              ]
+            },
+            {
+              "numb": 10,
+              "question": "Choose the correct synonym for 'obstacle':",
+              "answer": "A) Problem",
+              "options": [
+                "A) Problem",
+                "B) Pathway",
+                "C) Solution",
+                "D) Possibility"
+              ]
+            }
+          ]
       }
-    ],
-
-
-    "int_eng": [
-
-        {
-          "numb": 1,
-          "question": "Which of the following is a synonym for 'eager'?",
-          "answer": "B) Excited",
-          "options": [
-            "A) Angry",
-            "B) Excited",
-            "C) Lazy",
-            "D) Sad"
-          ]
-        },
-        {
-          "numb": 2,
-          "question": "What is the correct way to address someone in a formal email?",
-          "answer": "B) Dear Mr. Smith,",
-          "options": [
-            "A) Hey John,",
-            "B) Dear Mr. Smith,",
-            "C) Hi there,",
-            "D) Yo,"
-          ]
-        },
-        {
-          "numb": 3,
-          "question": "Choose the correct sentence that uses the past continuous tense:",
-          "answer": "C) They were playing soccer in the park yesterday.",
-          "options": [
-            "A) She is singing a song yesterday.",
-            "B) He was read a book now.",
-            "C) They were playing soccer in the park yesterday.",
-            "D) I will be going to the party tomorrow."
-          ]
-        },
-        {
-          "numb": 4,
-          "question": "Which word is a homophone for 'peace'?",
-          "answer": "A) Piece",
-          "options": [
-            "A) Piece",
-            "B) Peas",
-            "C) Pies",
-            "D) Paws"
-          ]
-        },
-        {
-          "numb": 5,
-          "question": "Identify the correct sentence with parallel structure:",
-          "answer": "C) They enjoy swimming and reading books.",
-          "options": [
-            "A) She likes to swim and reading books.",
-            "B) He enjoys swimming and to read books.",
-            "C) They enjoy swimming and reading books.",
-            "D) Swimming is something they enjoy and also reading books."
-          ]
-        },
-        {
-          "numb": 6,
-          "question": "What is the meaning of the idiom 'break a leg'?",
-          "answer": "B) To wish someone good luck",
-          "options": [
-            "A) To actually break a leg",
-            "B) To wish someone good luck",
-            "C) To dance energetically",
-            "D) To run a race"
-          ]
-        },
-        {
-          "numb": 7,
-          "question": "Which sentence contains a dangling modifier?",
-          "answer": "C) Running through the park, my wallet fell out of my pocket.",
-          "options": [
-            "A) After finishing my homework, the computer crashed.",
-            "B) While eating dinner, the phone rang.",
-            "C) Running through the park, my wallet fell out of my pocket.",
-            "D) I saw a cat crossing the street while walking home."
-          ]
-        },
-        {
-          "numb": 8,
-          "question": "Which sentence is in the passive voice?",
-          "answer": "B) The mouse was chased by the cat.",
-          "options": [
-            "A) The cat chased the mouse.",
-            "B) The mouse was chased by the cat.",
-            "C) The chef cooked a delicious meal.",
-            "D) She is singing a song."
-          ]
-        },
-        {
-          "numb": 9,
-          "question": "What does the word 'ephemeral' mean?",
-          "answer": "B) Temporary",
-          "options": [
-            "A) Long-lasting",
-            "B) Temporary",
-            "C) Unpleasant",
-            "D) Confusing"
-          ]
-        },
-        {
-          "numb": 10,
-          "question": "Choose the correct synonym for 'obstacle':",
-          "answer": "A) Problem",
-          "options": [
-            "A) Problem",
-            "B) Pathway",
-            "C) Solution",
-            "D) Possibility"
-          ]
-        }
-      ]      
+  ]
+          
   } 
 ]
